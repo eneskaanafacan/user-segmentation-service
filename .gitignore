@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ortam Değişkenleri
+.env
+
+# Çalışma notları ve geçici dosyalar
+transcripts/
